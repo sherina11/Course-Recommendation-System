@@ -7,7 +7,7 @@ Unlike basic recommendation systems that only use ratings, this system uses **us
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features 
 - ✔ Recommends courses based on **user behavior**
 - ✔ Uses **Collaborative Filtering**
 - ✔ Applies **Cosine Similarity** to find similar users
