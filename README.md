@@ -5,7 +5,6 @@ This project is a **Course Recommendation System** that suggests courses to stud
 
 Unlike basic recommendation systems that only use ratings, this system uses **user activity data** to provide smarter and more personalized recommendations.
 
----
 
 ## 🚀 Key Features 
 - ✔ Recommends courses based on **user behavior**
@@ -15,7 +14,6 @@ Unlike basic recommendation systems that only use ratings, this system uses **us
 - ✔ Styled UI with icons and modern design
 - ✔ Allows **dynamic deletion of recommended courses**
 
----
 
 ## 🧠 How It Works
 1. User activity logs are taken as input
@@ -24,7 +22,6 @@ Unlike basic recommendation systems that only use ratings, this system uses **us
 4. Similar users are identified
 5. Courses completed by similar users are recommended
 
----
 
 ## 🛠️ Technologies Used
 - Python 🐍
@@ -34,8 +31,6 @@ Unlike basic recommendation systems that only use ratings, this system uses **us
 - Scikit-learn
 - HTML, CSS, JavaScript
 - Font Awesome (icons)
-
----
 
 ### Author
 Raja Sherina T
